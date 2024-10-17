@@ -6,5 +6,6 @@ int main(){
     cin>>xi>>xj;
     cout<<"enter vector 2:";
     cin>>yi>>yj;
-    cout<<"dot product of the vectors is: "<<(xi*yi)+(xj*yj);
+    cout<<"dot product of the vectors is: "<<(xi*yi)+(xj*yj)<<endl;
+    cout<<"bug is fixed in master branch"<<endl;
 }
