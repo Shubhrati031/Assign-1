@@ -8,4 +8,5 @@ int main(){
     cin>>yi>>yj;
     cout<<"dot product of the vectors is: "<<(xi*yi)+(xj*yj)<<endl;
     cout<<"bug is fixed in master branch"<<endl;
+    cout<<"newline added"<<endl;
 }
