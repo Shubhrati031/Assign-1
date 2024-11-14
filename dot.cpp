@@ -9,4 +9,5 @@ int main(){
     cout<<"dot product of the vectors is: "<<(xi*yi)+(xj*yj)<<endl;
     cout<<"bug is fixed in master branch"<<endl;
     cout<<"changes after adding to repository"<<endl;
+    cout<<"Changes Made by me(Shubhrati)"<<endl;
 }
